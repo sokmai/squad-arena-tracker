@@ -343,13 +343,19 @@
   },
     {
     "name": "てっつん",
-    "allyCode": "612785823",
+    "allyCodex": "612785823",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
     {
     "name": "GrandAdmiralGhost",
     "allyCode": "575348242",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Bludclart",
+    "allyCode": "633627953",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
