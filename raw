@@ -348,7 +348,7 @@
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "GrandAdmiralGhost",
+    "name": "AdmiralGhost",
     "allyCode": "575348242",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
@@ -374,6 +374,42 @@
     {
     "name": "SithKebab" ,
     "allyCode": "295928884",
+    "discordId": "",
+    "userIcon": ""
+  },
+    {
+    "name": "Dudly" ,
+    "allyCode": "634888316",
+    "discordId": "",
+    "userIcon": ""
+  },
+    {
+    "name": "naciek" ,
+    "allyCode": "715946452",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Doktorsasela" ,
+    "allyCode": "112571383",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "MI2 Amp" ,
+    "allyCode": "467889455",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "MrRodgersNeighborhood" ,
+    "allyCode": "782324346",
+    "discordId": "",
+    "userIcon": ""
+  },
+    {
+    "name": "Swawik" ,
+    "allyCode": "989376934",
     "discordId": "",
     "userIcon": ""
   },
