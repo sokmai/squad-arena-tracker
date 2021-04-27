@@ -48,13 +48,13 @@
     "userIcon": ""
   },
     {
-    "name": "BΛ ΛXΞ",
+    "name": "ΛXΞ",
     "allyCode": "782548159",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "Confideration Grey DarcDavix",
+    "name": "",
     "allyCode": "433993222",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
@@ -90,12 +90,6 @@
     "userIcon": ""
   },
     {
-    "name": "daspman",
-    "allyCode": "793157226",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
     "name": "Deathcloud",
     "allyCode": "467234944",
     "discordId": "",
@@ -127,7 +121,7 @@
   },
     {
     "name": "Epsil0n Actual",
-    "allyCode": "933247321",
+    "allyCode": "",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
@@ -150,8 +144,8 @@
     "userIcon": ""
   },
     {
-    "name": "GordonFreeman",
-    "allyCode": "488-486-437",
+    "name": "",
+    "allyCode": "488486437",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
@@ -204,20 +198,8 @@
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "Mawow",
-    "allyCode": "271347458",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
     "name": "McFett",
     "allyCode": "952321489",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
-    "name": "MoSkitz",
-    "allyCode": "888928474",
     "discordId": "",
     "userIcon": ""
   },
@@ -267,7 +249,7 @@
     "name": "snakeable",
     "allyCode": "297549396",
     "discordId": "",
-    "userIcon": ""
+    "userIcon": ":skull_crossbones:"
   },
     {
     "name": "Spectreknight",
@@ -294,12 +276,6 @@
     "userIcon": ""
   },
     {
-    "name": "TheRedDevil",
-    "allyCode": "571357227",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
     "name": "Therion",
     "allyCode": "932894889",
     "discordId": "",
@@ -314,12 +290,6 @@
     {
     "name": "Tyvokka",
     "allyCode": "571283322",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
-    "name": "VlaDo",
-    "allyCode": "155726996",
     "discordId": "",
     "userIcon": ""
   },
@@ -342,13 +312,13 @@
     "userIcon": ""
   },
     {
-    "name": "",
+    "name": "てっつん",
     "allyCode": "612785823",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "AdmiralGhost",
+    "name": "GrandAdmiralGhost",
     "allyCode": "575348242",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
@@ -357,10 +327,10 @@
     "name": "Bludclart",
     "allyCode": "633627953",
     "discordId": "",
-    "userIcon": ":skull_crossbones:"
+    "userIcon": ""
   },
     {
-    "name": "",
+    "name": "MI2 Amp",
     "allyCode": "467889455",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
@@ -387,7 +357,7 @@
     "name": "naciek" ,
     "allyCode": "715946452",
     "discordId": "",
-    "userIcon": ":skull_crossbones:"
+    "userIcon": ""
   },
     {
     "name": "Doktorsasela" ,
@@ -418,6 +388,24 @@
     "allyCode": "717576648",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "DarthTIG0LBITS",
+    "allyCode": "383767395",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "cătălin",
+    "allyCode": "115528486",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Codezilla",
+    "allyCode": "212549587",
+    "discordId": "",
+    "userIcon": ""
   },
     {
     "name": "OpiEnu",
