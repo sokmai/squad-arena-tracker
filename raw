@@ -366,12 +366,6 @@
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "MI2 Amp" ,
-    "allyCode": "467889455",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-    {
     "name": "MrRodgersNeighborhood" ,
     "allyCode": "782324346",
     "discordId": "",
@@ -416,6 +410,12 @@
     {
     "name": "Leego",
     "allyCode": "442876746",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Gozoi",
+    "allyCode": "175279357",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
