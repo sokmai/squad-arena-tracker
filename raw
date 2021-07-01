@@ -54,7 +54,7 @@
     "userIcon": ":skull_crossbones:"
   },
     {
-    "name": "",
+    "name": "Lovеr",
     "allyCode": "433993222",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
@@ -63,7 +63,7 @@
     "name": "Conte",
     "allyCode": "664775689",
     "discordId": "",
-    "userIcon": ":skull_crossbones:"
+    "userIcon": ""
   },
     {
     "name": "Dang0",
@@ -90,16 +90,10 @@
     "userIcon": ""
   },
     {
-    "name": "Deathcloud",
-    "allyCode": "467234944",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
     "name": "Dirk Cannon",
     "allyCode": "964182533",
     "discordId": "",
-    "userIcon": ""
+    "userIcon": ":skull_crossbones:"
   },
     {
     "name": "Duck a Dodo",
@@ -132,22 +126,10 @@
     "userIcon": ""
   },
     {
-    "name": "Fingolfin",
-    "allyCode": "477974542",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-    {
     "name": "Gingerkid",
     "allyCode": "265434458",
     "discordId": "",
     "userIcon": ""
-  },
-    {
-    "name": "",
-    "allyCode": "488486437",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
   },
     {
     "name": "HWROCK",
@@ -192,12 +174,6 @@
     "userIcon": ""
   },
     {
-    "name": "Manzano",
-    "allyCode": "479453687",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-    {
     "name": "McFett",
     "allyCode": "952321489",
     "discordId": "",
@@ -220,12 +196,6 @@
     "allyCode": "334618556",
     "discordId": "",
     "userIcon": ""
-  },
-    {
-    "name": "Rille",
-    "allyCode": "495964554",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
   },
     {
     "name": "Senor Frogs",
@@ -333,17 +303,11 @@
     "name": "MI2 Amp",
     "allyCode": "467889455",
     "discordId": "",
-    "userIcon": ":skull_crossbones:"
+    "userIcon": ""
   },
     {
     "name": "Sarith LeKit" ,
     "allyCode": "659695187",
-    "discordId": "",
-    "userIcon": ""
-  },
-    {
-    "name": "SithKebab" ,
-    "allyCode": "295928884",
     "discordId": "",
     "userIcon": ""
   },
@@ -386,12 +350,6 @@
     {
     "name": "DarthTIG0LBITS",
     "allyCode": "383767395",
-    "discordId": "",
-    "userIcon": ":skull_crossbones:"
-  },
-    {
-    "name": "cătălin",
-    "allyCode": "115528486",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
@@ -441,7 +399,7 @@
     "name": "Chubaka21",
     "allyCode": "998444653",
     "discordId": "",
-    "userIcon": ":skull_crossbones:"
+    "userIcon": ""
   },
     {
     "name": "Cam Liszen",
@@ -477,6 +435,6 @@
     "name": "Valkorion Zakuulan",
     "allyCode": "324755564",
     "discordId": "",
-    "userIcon": ""
+    "userIcon": ":skull_crossbones:"
   }
 ]
