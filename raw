@@ -24,6 +24,12 @@
     "userIcon": ""
   },
     {
+    "name": "Olasz",
+    "allyCode": "414293475",
+    "discordId": "",
+    "userIcon": ""
+  },
+    {
     "name": "Amaika",
     "allyCode": "188395792",
     "discordId": "",
@@ -428,6 +434,24 @@
     {
     "name": "DimaNH",
     "allyCode": "619861735",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Cloner",
+    "allyCode": "254251157",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "jcmdawg",
+    "allyCode": "146594563",
+    "discordId": "",
+    "userIcon": ":skull_crossbones:"
+  },
+    {
+    "name": "Mugami",
+    "allyCode": "729464712",
     "discordId": "",
     "userIcon": ":skull_crossbones:"
   },
